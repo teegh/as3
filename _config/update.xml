@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
+
+	<versionNumber>1</versionNumber>
+
+	<url>http://****/app.exe</url>
+	<description><![CDATA[特にありません]]></description>
+
+</update>

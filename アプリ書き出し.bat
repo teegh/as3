@@ -1,0 +1,1 @@
+adt -package -storetype pkcs12 -keystore mycert.p12 -storepass test -target native webKitTest.exe webKitTest-app.xml webKitTest.swf icon config taskIcon
